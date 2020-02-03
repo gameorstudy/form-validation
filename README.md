@@ -28,24 +28,39 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-=======
->>>>>>> 7282bfb50f67767e3af4f1dd444fb50e07d6c216
-# form-validation
-Use vue cli to create a form to sign up and login
+### install vuelidate plugin
+```
+npm install vuelidate --save
+```
 
+### use vuelidate
+```
+https://vuelidate.js.org/#getting-started
+```
+
+### install tailwind plugin
+``` 
+npm install tailwind
+```
+
+### use tailwind
+```
+https://github.com/tailwindcss/setup-examples/tree/master/examples/vue-cli
+and also
+https://tailwindcss.com/docs/installation
+```
+
+### tailwind tutorial
+```
+https://tailwindcss.com/
+```
+
+###
 # referred knowledge
 1 vuelidate plugin
 2 tailwind plugin
 3 dynamic router
 4 build not found page
-<<<<<<< HEAD
->>>>>>> 7282bfb50f67767e3af4f1dd444fb50e07d6c216
-=======
->>>>>>> 7282bfb50f67767e3af4f1dd444fb50e07d6c216
-=======
+
 # form-validation
 use vue cli to create a form to sign up and log in
->>>>>>> 394224bbf1496677a7da22fe129f0c18bf094e0b
