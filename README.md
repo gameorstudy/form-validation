@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # making-account
 
 ## Project setup
@@ -44,3 +45,7 @@ Use vue cli to create a form to sign up and login
 >>>>>>> 7282bfb50f67767e3af4f1dd444fb50e07d6c216
 =======
 >>>>>>> 7282bfb50f67767e3af4f1dd444fb50e07d6c216
+=======
+# form-validation
+use vue cli to create a form to sign up and log in
+>>>>>>> 394224bbf1496677a7da22fe129f0c18bf094e0b
