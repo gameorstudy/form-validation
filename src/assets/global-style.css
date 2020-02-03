@@ -1,0 +1,37 @@
+h1 {
+  @apply font-bold text-4xl;
+}
+
+input[type='text'],
+input[type='password'] {
+  @apply w-96 h-12 bg-snow pl-2 outline-none;
+}
+
+.errorStyle {
+  @apply border-error border;
+}
+
+.borderStyle {
+    @apply border-transparent border;
+}
+
+.disabledButton {
+    @apply opacity-50 cursor-not-allowed;
+}
+
+.child-view {
+    @apply ml-8 my-2;
+}
+
+.transitionStyle {
+    transition: all 0.1s ease-in-out;
+}
+
+.form-label-group input:not(:placeholder-shown) {
+    @apply pt-5 pb-1;
+}
+
+.form-label-group input:not(:placeholder-shown)~label {
+    @apply pb-1 text-xs;
+    color: #777;
+}
